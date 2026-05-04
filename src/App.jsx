@@ -8,7 +8,7 @@ const gifts = [
     title: 'Ropa del Pull',
     category: 'INDUMENTARIA',
     description:
-      'Solicitud de prendas de vestir del establecimiento comercial conocido como "Pull & Bear". Cualquier artículo del catálogo vigente es bienvenido. Talla XL preferida. Estado: NUEVO.',
+      'Solicitud de prendas de vestir del establecimiento comercial conocido como "Pull & Bear". Cualquier artículo del catálogo vigente es bienvenido. Talla XL/L preferida. Estado: NUEVO.',
     icon: '👕',
     priority: 'ALTA',
   },
