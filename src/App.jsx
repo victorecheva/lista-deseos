@@ -51,7 +51,7 @@ export default function App() {
         <div className="mb-6 border border-terminal-border bg-black bg-opacity-40 p-4 corner-cut text-xs text-terminal-gray leading-relaxed">
           <span className="text-terminal-amber font-bold glow-text-amber">▸ INSTRUCCIONES: </span>
           Los siguientes artículos han sido identificados como suministros prioritarios para el
-          cumpleaños del operativo VÍCTOR. El agente designado (tú, mi amor) puede seleccionar
+          cumpleaños del operativo VÍCTOR. El agente designado (tú, mi vida) puede seleccionar
           uno o más ítems de la lista para garantizar la moral y el bienestar del personal.
           Toda asistencia es profundamente apreciada.
         </div>
