@@ -39,6 +39,15 @@ const gifts = [
     icon: '✒️',
     priority: 'MEDIA',
   },
+  {
+    id: 5,
+    title: 'VALE para juego simulación',
+    category: 'ENTRETENIMIEMTO',
+    description:
+      'VALE de 30€ para adquirir sistema de simulación para el uso del Volante, llamado Le Mans Ultimate. El artículo se adquiere a través de la plataforma Steam.',
+    icon: '🏎️',
+    priority: 'MEDIA',
+  },
 ]
 
 export default function App() {
